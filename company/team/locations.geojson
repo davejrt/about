@@ -182,6 +182,19 @@
           43.643032068770395
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dave Try"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23918151855469,
+          4.444997369727285
+        ]
+      }
     }
   ]
 }
